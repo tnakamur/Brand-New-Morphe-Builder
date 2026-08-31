@@ -1,7 +1,7 @@
 📱 » **Google-Photos-De-Vanced** (arm64-v8a): `7.90.0.971743778`    
 📱 » **Instagram-Piko** (arm64-v8a): `439.0.0.37.89`    
 📱 » **Reddit-Morphe** (all): `2026.14.0`    
-📱 » **Twitter-Piko** (all): `12.20.5-prod.01`    
+📱 » **Twitter-Piko** (all): `12.19.1-release.0`    
 📱 » **YT-Music-Morphe** (arm64-v8a): `9.15.51`    
 📱 » **YouTube-Morphe** (all): `21.04.223`    
 
