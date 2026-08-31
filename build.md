@@ -1,4 +1,9 @@
-📱 » **YouTube-Morphe** (arm64-v8a): `21.35.442-SECONDARY`    
+📱 » **Google-Photos-De-Vanced** (arm64-v8a): `7.90.0.971743778`    
+📱 » **Instagram-Piko** (arm64-v8a): `439.0.0.37.89`    
+📱 » **Reddit-Morphe** (all): `2026.14.0`    
+📱 » **Twitter-Piko** (all): `12.20.5-prod.01`    
+📱 » **YT-Music-Morphe** (arm64-v8a): `9.15.51`    
+📱 » **YouTube-Morphe** (all): `21.04.223`    
 
 <br>
   
@@ -12,7 +17,9 @@
   
 Patches and CLI Sources :
   
-> ⚙️ » Patches: `MorpheApp/patches-1.41.0-dev.7.mpp` ([Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.41.0-dev.7))
+> ⚙️ » Patches: `RookieEnough/patches-1.2.2.mpp` ([Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.2.2))
+ ⚙️ » Patches: `crimera/patches-3.9.0-dev.10.mpp` ([Changelog](https://github.com/crimera/piko/releases/tag/v3.9.0-dev.10))
+ ⚙️ » Patches: `MorpheApp/patches-1.40.0.mpp` ([Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.40.0))
   
 > ⚙️ » CLI: `MorpheApp/morphe-desktop-1.14.0-all.jar`
   
