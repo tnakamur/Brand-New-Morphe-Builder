@@ -1,9 +1,18 @@
+📱 » **Facebook-Froggo** (arm64-v8a): `573.0.0.37.74`    
 📱 » **Google-Photos-De-Vanced** (arm64-v8a): `7.91.0.973540846`    
 📱 » **Instagram-Piko** (arm64-v8a): `439.0.0.37.89`    
 📱 » **Reddit-Morphe** (all): `2026.14.0`    
 📱 » **Twitter-Piko** (all): `12.19.1-release.0`    
 📱 » **YT-Music-Morphe** (arm64-v8a): `9.15.51`    
 📱 » **YouTube-Morphe** (all): `21.07.247`    
+
+<br>
+  
+
+**⚠️ Disclaimer:**  
+- Recent YouTube versions above **21.34.\*\*\*** ship a new fullscreen behavior that can randomly trigger. If your device's **Smallest Width (DPI)** is set higher than **499**, swiping up or tapping the on-screen fullscreen button may fail to switch to landscape fullscreen and instead stay stuck in vertical/portrait fullscreen.  
+- **Fix:** Open YouTube → **Settings** → **Morphe** → **Debugging** → **Feature flags** → search for flag **`45831136`** → toggle it to **Disabled** (force to `false`/blocked) → save and restart the app.  
+- You can also import my [**Custom Feature Flags**](../teejay/custom_settings-by_tanjid/YouTube_Feature_Flags_2026-09-01.txt) file directly instead of toggling it manually.  
 
 <br>
   
@@ -17,8 +26,9 @@
   
 Patches and CLI Sources :
   
-> ⚙️ » Patches: `RookieEnough/patches-1.3.1.mpp` ([Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.3.1))
- ⚙️ » Patches: `crimera/patches-3.10.0-dev.1.mpp` ([Changelog](https://github.com/crimera/piko/releases/tag/v3.10.0-dev.1))
+> ⚙️ » Patches: `SapitoSucio/patches-1.4.0-dev.1.mpp` ([Changelog](https://github.com/SapitoSucio/FroggoMorphePatches/releases/tag/v1.4.0-dev.1))
+ ⚙️ » Patches: `RookieEnough/patches-1.3.1.mpp` ([Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.3.1))
+ ⚙️ » Patches: `crimera/patches-3.10.0-dev.3.mpp` ([Changelog](https://github.com/crimera/piko/releases/tag/v3.10.0-dev.3))
  ⚙️ » Patches: `MorpheApp/patches-1.41.0.mpp` ([Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.41.0))
   
 > ⚙️ » CLI: `MorpheApp/morphe-desktop-1.15.0-all.jar`
