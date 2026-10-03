@@ -1,4 +1,4 @@
-📱 » **Facebook-De-Vanced** (arm64-v8a): `490.0.0.63.82`    
+📱 » **Facebook-De-Vanced** (arm64-v8a): `580.0.0.51.74`    
 📱 » **Google-Photos-De-Vanced** (arm64-v8a): `7.92.0.977185651`    
 📱 » **Instagram-Piko** (arm64-v8a): `439.0.0.37.89`    
 📱 » **Reddit-Morphe** (all): `2026.24.0`    
@@ -26,7 +26,7 @@
   
 Patches and CLI Sources :
   
-> ⚙️ » Patches: `RookieEnough/patches-1.4.4.mpp` ([Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.4.4))
+> ⚙️ » Patches: `RookieEnough/patches-1.5.0.mpp` ([Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.5.0))
  ⚙️ » Patches: `crimera/patches-3.9.0.mpp` ([Changelog](https://github.com/crimera/piko/releases/tag/v3.9.0))
  ⚙️ » Patches: `MorpheApp/patches-1.45.0.mpp` ([Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.45.0))
   
