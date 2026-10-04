@@ -26,7 +26,7 @@
   
 Patches and CLI Sources :
   
-> ⚙️ » Patches: `RookieEnough/patches-1.5.0.mpp` ([Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.5.0))
+> ⚙️ » Patches: `RookieEnough/patches-1.5.1.mpp` ([Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.5.1))
  ⚙️ » Patches: `crimera/patches-3.9.0.mpp` ([Changelog](https://github.com/crimera/piko/releases/tag/v3.9.0))
  ⚙️ » Patches: `MorpheApp/patches-1.45.0.mpp` ([Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.45.0))
   
