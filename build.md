@@ -28,7 +28,7 @@ Patches and CLI Sources :
   
 > ⚙️ » Patches: `RookieEnough/patches-1.5.1.mpp` ([Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.5.1))
  ⚙️ » Patches: `crimera/patches-3.10.0.mpp` ([Changelog](https://github.com/crimera/piko/releases/tag/v3.10.0))
- ⚙️ » Patches: `MorpheApp/patches-1.47.0.mpp` ([Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.47.0))
+ ⚙️ » Patches: `MorpheApp/patches-1.48.0.mpp` ([Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.48.0))
   
-> ⚙️ » CLI: `MorpheApp/morphe-desktop-1.18.1-all.jar`
+> ⚙️ » CLI: `MorpheApp/morphe-desktop-1.19.0-all.jar`
   
