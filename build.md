@@ -30,5 +30,5 @@ Patches and CLI Sources :
  ⚙️ » Patches: `crimera/patches-3.10.0.mpp` ([Changelog](https://github.com/crimera/piko/releases/tag/v3.10.0))
  ⚙️ » Patches: `MorpheApp/patches-1.48.0.mpp` ([Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.48.0))
   
-> ⚙️ » CLI: `MorpheApp/morphe-desktop-1.19.0-all.jar`
+> ⚙️ » CLI: `MorpheApp/morphe-desktop-1.19.1-all.jar`
   
